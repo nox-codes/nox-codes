@@ -48,7 +48,7 @@
 
 ```yaml
 languages:
-  fluent:    [HTML, CSS, JavaScript]
+  fluent:    [HTML, CSS, JavaScript, React, Express, MongoDB]
   learning:  [Swift, Rust]
   studying:  [DSA, Calculus (MTH 102)]
 
