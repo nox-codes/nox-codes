@@ -66,7 +66,7 @@ vibes:
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,swift,rust,vscode,chrome,git,github&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,swift,rust,vscode,davinci resolve,git,github&perline=9" />
 </p>
 
 ---
