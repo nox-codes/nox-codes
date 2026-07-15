@@ -6,7 +6,7 @@ Hi, ```nox``` here.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=#D3D3D3&center=true&vCenter=true&width=520&lines=thinking...;thinking+even+more...;can't+figure+it+out....;why+is+this+so+friggin+hard+to+do!;arghhhhhhhh!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=D3D3D3&center=true&vCenter=true&width=520&lines=thinking...;thinking+even+more...;can't+figure+it+out....;why+is+this+so+friggin+hard+to+do!;arghhhhhhhh!" />
 </p>
 
 ---
