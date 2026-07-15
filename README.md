@@ -13,12 +13,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-%3C%20code%20%2F%3E-FF006E?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-🏐%20volleyball-FB5607?style=for-the-badge&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/-🏐%20volleyball-FB5607?style=for-the-badge&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/-🎬%20motion-3A86FF?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=8338EC&center=true&vCenter=true&width=520&lines=spike+the+ball.;ship+the+code.;sleep+is+optional." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=8338EC&center=true&vCenter=true&width=520&lines=thinking...;thinking+even+more...;can't+figure+it+out...." />
 </p>
 
 ---
