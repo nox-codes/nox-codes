@@ -1,16 +1,4 @@
-<h1 align="center">
-
-```
-    ███╗   ██╗ ██████╗ ██╗  ██╗
-    ████╗  ██║██╔═══██╗╚██╗██╔╝
-    ██╔██╗ ██║██║   ██║ ╚███╔╝
-    ██║╚██╗██║██║   ██║ ██╔██╗
-    ██║ ╚████║╚██████╔╝██╔╝ ██╗
-    ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
-```
-
-</h1>
-
+Hi, ```nox``` here.
 <p align="center">
   <img src="https://img.shields.io/badge/-%3C%20code%20%2F%3E-FF006E?style=for-the-badge&logoColor=white" />
   <!-- <img src="https://img.shields.io/badge/-🏐%20volleyball-FB5607?style=for-the-badge&logoColor=white" /> -->
